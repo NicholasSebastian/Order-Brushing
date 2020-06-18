@@ -1,6 +1,6 @@
 # Order-Brushing
 My entry for Week 1 of the Shopee Code League competition.  
-The data used as input was given in "order_brush_order.csv"
+The data used as input was given in **order_brush_order.csv**
 
 ![alt text](instructions.png)
 More details about the problem can be found in the **Problem** folder.
