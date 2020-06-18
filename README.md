@@ -1,6 +1,6 @@
 # Order-Brushing
 My entry for Week 1 of the Shopee Code League competition.  
-The data used as input was given in **order_brush_order.csv**
+**Program.cs** reads **order_brush_order.csv** as input and creates **output.csv** as output.
 
 ![alt text](instructions.png)
 More details about the problem can be found in the **Problem** folder.
